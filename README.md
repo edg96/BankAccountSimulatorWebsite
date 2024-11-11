@@ -2,7 +2,7 @@
 
 This website serves as a polished showcase for the Bank Account Simulator app, providing visitors with an overview of the app features, benefits, and an introduction to its key functionalities. Built with a clean, modern aesthetic, the presentation site highlights how the app enables users to manage multiple bank accounts securely and efficiently.
 
-[Take a live look at my website powered by Vercel]()
+[Take a live look at my website powered by Vercel](https://bank-account-simulator-website.vercel.app/)
 
 <img src="./images/screen.png" />
 
