@@ -1,6 +1,6 @@
 "use strict";
 
-// BANK ACCOUNT SIMULATOR APP
+// BANK ACCOUNT SIMULATOR WEBSITE
 
 // ------------------------------------
 // Data
