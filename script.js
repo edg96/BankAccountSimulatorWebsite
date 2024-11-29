@@ -1,10 +1,7 @@
 "use strict";
 
-// BANK ACCOUNT SIMULATOR WEBSITE
-
 // ------------------------------------
 // Data
-// ------------------------------------
 
 const modal = document.querySelector(".modal");
 const overlay = document.querySelector(".overlay");
@@ -19,7 +16,6 @@ const tabsContent = document.querySelectorAll(".operations__content");
 
 // ------------------------------------
 // Modal window
-// ------------------------------------
 
 const openModal = function (e) {
   e.preventDefault();
@@ -45,7 +41,6 @@ document.addEventListener("keydown", function (e) {
 
 // ------------------------------------
 // Button scrolling
-// ------------------------------------
 
 btnScrollTo.addEventListener("click", function (e) {
   const s1coords = section1.getBoundingClientRect();
@@ -76,7 +71,6 @@ document.querySelector(".nav__links").addEventListener("click", function (e) {
 
 // ------------------------------------
 // Tabbed component
-// ------------------------------------
 
 tabsContainer.addEventListener("click", function (e) {
   const clicked = e.target.closest(".operations__tab");
@@ -99,7 +93,6 @@ tabsContainer.addEventListener("click", function (e) {
 
 // ------------------------------------
 // Menu fade animation
-// ------------------------------------
 
 const handleHover = function (e) {
   if (e.target.classList.contains("nav__link")) {
@@ -116,14 +109,12 @@ const handleHover = function (e) {
 
 // ------------------------------------
 // Passing "argument" into handler
-// ------------------------------------
 
 nav.addEventListener("mouseover", handleHover.bind(0.5));
 nav.addEventListener("mouseout", handleHover.bind(1));
 
 // ------------------------------------
 // Sticky navigation: Intersection Observer API
-// ------------------------------------
 
 const header = document.querySelector(".header");
 const navHeight = nav.getBoundingClientRect().height;
@@ -145,7 +136,6 @@ headerObserver.observe(header);
 
 // ------------------------------------
 // Reveal sections
-// ------------------------------------
 
 const allSections = document.querySelectorAll(".section");
 
@@ -170,7 +160,6 @@ allSections.forEach(function (section) {
 
 // ------------------------------------
 // Lazy loading images
-// ------------------------------------
 
 const imgTargets = document.querySelectorAll("img[data-src]");
 
@@ -199,7 +188,6 @@ imgTargets.forEach((img) => imgObserver.observe(img));
 
 // ------------------------------------
 // Slider
-// ------------------------------------
 
 const slider = function () {
   const slides = document.querySelectorAll(".slide");
