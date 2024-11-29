@@ -34,6 +34,7 @@ body {
 }
 
 /* General elements */
+
 .section {
   padding: 15rem 3rem;
   border-top: 1px solid #ddd;
@@ -113,6 +114,7 @@ img {
 }
 
 /* Navigation */
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -169,6 +171,7 @@ img {
 }
 
 /* Header */
+
 .header {
   padding: 0 3rem;
   height: 100vh;
@@ -227,6 +230,7 @@ h4 {
 }
 
 /* Features */
+
 .features {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -268,6 +272,7 @@ h4 {
 }
 
 /* Operations */
+
 .operations {
   max-width: 100rem;
   margin: 12rem auto 0 auto;
@@ -370,6 +375,7 @@ h4 {
 }
 
 /* Slider */
+
 .slider {
   max-width: 100rem;
   height: 50rem;
@@ -454,6 +460,7 @@ h4 {
 }
 
 /* Testimonials */
+
 .testimonial {
   width: 65%;
   position: relative;
@@ -514,6 +521,7 @@ h4 {
 }
 
 /* Sign up */
+
 .section--sign-up {
   background-color: #37383d;
   border-top: none;
@@ -537,6 +545,7 @@ h4 {
 }
 
 /* Footer */
+
 .footer {
   padding: 10rem 3rem;
   background-color: #37383d;
@@ -577,6 +586,7 @@ h4 {
 }
 
 /* Modal window */
+
 .modal {
   position: fixed;
   top: 50%;
@@ -652,6 +662,7 @@ h4 {
 }
 
 /* Cookie message */
+
 .cookie-message {
   display: flex;
   align-items: center;
