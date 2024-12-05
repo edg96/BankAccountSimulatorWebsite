@@ -8,10 +8,10 @@ This website serves as a polished showcase for the Bank Account Simulator app, p
 
 ## Features
 
-- Sleek and Minimalistic Design – Crafted with simplicity and elegance, the site features a clean, unobtrusive aesthetic that enhances the user experience without distractions.
-- Intuitive and User-Friendly – Designed for ease of use, every detail is thoughtfully arranged, allowing users to navigate seamlessly and find information effortlessly.
-- Informative and Well-Organized – Each section is structured to communicate the app’s features clearly and concisely, ensuring users understand the app's capabilities at a glance.
-- Visually Engaging – Combining minimalism with visual appeal, the layout is attractive yet functional, guiding the user’s attention smoothly through the content.
+- **Sleek and Minimalistic Design** – Crafted with simplicity and elegance, the site features a clean, unobtrusive aesthetic that enhances the user experience without distractions.
+- **Intuitive and User-Friendly** – Designed for ease of use, every detail is thoughtfully arranged, allowing users to navigate seamlessly and find information effortlessly.
+- **Informative and Well-Organized** – Each section is structured to communicate the app’s features clearly and concisely, ensuring users understand the app's capabilities at a glance.
+- **Visually Engaging** – Combining minimalism with visual appeal, the layout is attractive yet functional, guiding the user’s attention smoothly through the content.
 
 ## Usage
 
@@ -33,4 +33,4 @@ This project highlights the importance of web development fundamentals in creati
 
 - JavaScript adds interactivity and handles data dynamically, allowing actions such as logging in, transferring funds, and more
 
-This project is ideal for those wanting to strengthen their skills in web development essentials—HTML, CSS, and JavaScript—while incorporating data handling and real-time updates.
+This project is ideal for those wanting to strengthen their skills in web development essentials (HTML, CSS, and JavaScript) while incorporating data handling and real-time updates.
